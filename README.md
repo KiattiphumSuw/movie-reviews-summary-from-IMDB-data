@@ -2,7 +2,8 @@
 
 ## This project scarbing movie reviews from IMDB and keep it into S3. Then use PySpark to summarise reviews before perform to AWS Athena.
 
-[picture of aws dirgram]
+![image](https://github.com/KiattiphumSuw/movie-reviews-summary-with-IMDB-data/assets/83391695/3f08e3dd-73ce-4725-a5e8-fc6b66901ff3)
+
 
 ## File
 * web scarb
