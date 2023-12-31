@@ -6,8 +6,8 @@
 
 
 ## File
-* web scarb
-* pyspark process file
+* imdb_top_movie_review.csv
+* IMDB_webscrabping.ipynb
 
 ## Data flow
 * web scrabing all reviews in first page of "review page" from top 50 movies by using selenium and BeautifulSoup
