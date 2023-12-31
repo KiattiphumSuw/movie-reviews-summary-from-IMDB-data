@@ -17,7 +17,7 @@
 
 ## How to use
 1. clone this project first
-2. [optional] edits and run webscrabping file in case of wanting to pull more reviews or movies
+2. [optional] edits and run "IMDB_webscrabping.ipynb" file in case of wanting to pull more reviews or movies
 3. access to primary node following AWS guild in EMR
 4. create file in primary node by using ```vi summary.py``` and copy code in file "summary.py" and paste into it
 5. save file and run ```pyspark-summit summary.py```
